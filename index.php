@@ -1,1 +1,1 @@
-<? include_ones("home.html"); ?>
+<? include_once("home.html"); ?>
